@@ -20,7 +20,7 @@ class PetjeafApiClient
     /**
      * Endpoint of the remote API.
      */
-    const API_ENDPOINT = 'https://api.petje.af';
+    const API_ENDPOINT = 'https://api.petje.af/v1';
 
     /**
      * HTTP Methods
